@@ -9,6 +9,26 @@ Durante os estudos será pedido para realizar alterações e adições a página
 
 É recomendada a leitura dos seguintes tópicos para melhor compreenção do que pode ser feito na aplicação.
 
+### Configuranto Ambiente
+
+Para iniciar o projeto, primeiro é necessária a instalação de um dos seguintes gerenciadores de dependências.
+
+- [NodeJs](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/en/)
+
+### Iniciando projeto
+
+1. Clone o repositório `git clone https://github.com/app-masters-academy/typescript-dashboard.git`
+2. Após clonar o repositório entre na pasta do projeto `cd typescript-dashboard`
+3. Instale as dependências utilizando do gerenciador escolhido acima.
+
+   - `npm i` para NodeJs.
+   - `yarn` para Yarn.
+
+4. Após instalar as depenências execute o projeto usando:
+   - `npm start` para NodeJs.
+   - `yarn start` para Yarn.
+
 ### Typescript
 
 - [O que é Typescript](https://imasters.com.br/dotnet/net-o-que-e-typescript-e-quais-os-seus-beneficios)
